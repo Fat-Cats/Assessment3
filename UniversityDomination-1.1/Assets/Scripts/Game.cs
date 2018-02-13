@@ -273,7 +273,7 @@ public class Game : MonoBehaviour {
 
         // create a specified number of human players
         // *** currently hard-wired to 2 for testing ***
-        CreatePlayers(4);
+        CreatePlayers(2);
 
         // initialize the map and allocate players to landmarks
         InitializeMap();
